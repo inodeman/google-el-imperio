@@ -1,0 +1,1195 @@
+1
+00:00:00,000 --> 00:00:03,010
+Hay una pregunta que parece pequeña.
+
+2
+00:00:03,010 --> 00:00:06,020
+Y, sin embargo, movió más dinero, más poder y más atención humana que casi cualquier otra invención de este siglo.
+
+3
+00:00:06,020 --> 00:00:09,030
+La pregunta es esta: entre miles de millones de páginas, ¿cuál merece ser la primera?
+
+4
+00:00:09,030 --> 00:00:12,040
+En mil novecientos noventa y cinco, internet ya existía.
+
+5
+00:00:12,040 --> 00:00:15,049
+Pero era un océano sin faro.
+
+6
+00:00:15,049 --> 00:00:18,059
+Encontrar algo dependía de directorios hechos a mano, de portales que te gritaban banners, de la suerte.
+
+7
+00:00:18,059 --> 00:00:21,069
+Dos estudiantes de Stanford no se cayeron bien el día que se conocieron.
+
+8
+00:00:21,069 --> 00:00:24,079
+Uno iba a visitar la universidad.
+
+9
+00:00:24,079 --> 00:00:27,089
+El otro era el guía del recorrido.
+
+10
+00:00:27,089 --> 00:00:30,099
+Discutieron.
+
+11
+00:00:30,099 --> 00:00:33,109
+Y de esa discusión nació la máquina que iba a organizar el mundo.
+
+12
+00:00:33,109 --> 00:00:36,119
+Esto es la historia de Google.
+
+13
+00:00:36,119 --> 00:00:39,129
+No la del logo de colores.
+
+14
+00:00:39,129 --> 00:00:42,139
+La de una idea: que la importancia se puede medir.
+
+15
+00:00:42,139 --> 00:00:45,148
+Que un enlace es un voto.
+
+16
+00:00:45,148 --> 00:00:48,158
+Y que quien controla el voto, controla la puerta de entrada a casi todo lo que sabemos.
+
+17
+00:00:48,158 --> 00:00:51,168
+Quédate.
+
+18
+00:00:51,168 --> 00:00:54,178
+Porque esta historia no termina en un garaje.
+
+19
+00:00:54,178 --> 00:00:57,188
+Termina en un tribunal.
+
+20
+00:00:57,188 --> 00:01:00,198
+Y en una carrera contra una inteligencia que la propia compañía ayudó a inventar, y que casi la deja atrás.
+
+21
+00:01:00,198 --> 00:01:03,208
+Larry Page llega a Stanford en mil novecientos noventa y cinco.
+
+22
+00:01:03,208 --> 00:01:06,218
+Viene de una casa donde la computación no era un misterio: su padre enseñaba ciencias de la computación.
+
+23
+00:01:06,218 --> 00:01:09,228
+Sergey Brin ya estaba ahí.
+
+24
+00:01:09,228 --> 00:01:12,238
+Nacido en Moscú, criado en Estados Unidos, brillante, inquieto, con fama de discutir por deporte.
+
+25
+00:01:12,238 --> 00:01:15,247
+El tour de reclutamiento los junta.
+
+26
+00:01:15,247 --> 00:01:18,257
+La leyenda dice que no se soportaron.
+
+27
+00:01:18,257 --> 00:01:21,267
+También dice que no podían dejar de hablar.
+
+28
+00:01:21,267 --> 00:01:24,277
+Las dos cosas pueden ser verdad.
+
+29
+00:01:24,277 --> 00:01:27,287
+Page trae una obsesión que no suena a negocio.
+
+30
+00:01:27,287 --> 00:01:30,297
+Suena a tesis.
+
+31
+00:01:30,297 --> 00:01:33,307
+Quiere descargar la web.
+
+32
+00:01:33,307 --> 00:01:36,317
+Toda.
+
+33
+00:01:36,317 --> 00:01:39,327
+Y mirar no lo que las páginas dicen, sino quién apunta a quién.
+
+34
+00:01:39,327 --> 00:01:42,337
+En la academia, un paper importa si otros papers importantes lo citan.
+
+35
+00:01:42,337 --> 00:01:45,346
+Page se pregunta si la red funciona igual.
+
+36
+00:01:45,346 --> 00:01:48,356
+Un enlace no es decoración.
+
+37
+00:01:48,356 --> 00:01:51,366
+Es una recomendación.
+
+38
+00:01:51,366 --> 00:01:54,376
+Y si una página importante te recomienda, ese voto pesa más que el de mil páginas que nadie lee.
+
+39
+00:01:54,376 --> 00:01:57,386
+Lo llaman BackRub, porque el sistema sigue los enlaces hacia atrás: la espalda de la red.
+
+40
+00:01:57,386 --> 00:02:00,396
+Corre en servidores de Stanford.
+
+41
+00:02:00,396 --> 00:02:03,406
+Se come el ancho de banda.
+
+42
+00:02:03,406 --> 00:02:06,416
+Se come los discos.
+
+43
+00:02:06,416 --> 00:02:09,426
+Y, poco a poco, hace algo que los directorios humanos ya no pueden hacer: ordenar el caos sin leerlo todo a mano.
+
+44
+00:02:09,426 --> 00:02:12,436
+El algoritmo se llamará PageRank.
+
+45
+00:02:12,436 --> 00:02:15,445
+El juego de palabras, si es un juego, está en el apellido.
+
+46
+00:02:15,445 --> 00:02:18,455
+Una página vale por la calidad de quien la señala.
+
+47
+00:02:18,455 --> 00:02:21,465
+No por cuántas veces grita una palabra clave.
+
+48
+00:02:21,465 --> 00:02:24,475
+En mil novecientos noventa y siete, cuando la web se llena de trucos para engañar buscadores, esa diferencia es un abismo.
+
+49
+00:02:24,475 --> 00:02:27,485
+Los otros motores cuentan palabras.
+
+50
+00:02:27,485 --> 00:02:30,495
+Este cuenta confianza.
+
+51
+00:02:30,495 --> 00:02:33,505
+Y la confianza, sumada, empieza a parecerse a un mapa del mundo.
+
+52
+00:02:33,505 --> 00:02:36,515
+Hay un detalle fácil de pasar por alto.
+
+53
+00:02:36,515 --> 00:02:39,525
+Page y Brin no estaban construyendo, al principio, una empresa.
+
+54
+00:02:39,525 --> 00:02:42,535
+Estaban construyendo un instrumento de medida.
+
+55
+00:02:42,535 --> 00:02:45,544
+Como quien fabrica un telescopio y, de pronto, descubre que todo el mundo quiere mirar por él.
+
+56
+00:02:45,544 --> 00:02:48,554
+Stanford, durante un tiempo, es el observatorio.
+
+57
+00:02:48,554 --> 00:02:51,564
+La universidad les presta máquinas, techo y una red que el proyecto empieza a tensar.
+
+58
+00:02:51,564 --> 00:02:54,574
+El instrumento funciona tan bien que deja de caber en una tesis.
+
+59
+00:02:54,574 --> 00:02:57,584
+El quince de septiembre de mil novecientos noventa y siete registran el dominio.
+
+60
+00:02:57,584 --> 00:03:00,594
+El nombre ya no es BackRub.
+
+61
+00:03:00,594 --> 00:03:03,604
+Es Google.
+
+62
+00:03:03,604 --> 00:03:06,614
+Un guiño a googol: un uno seguido de cien ceros.
+
+63
+00:03:06,614 --> 00:03:09,624
+Ese número lo había inventado, décadas antes, un niño de nueve años, sobrino del matemático Edward Kasner.
+
+64
+00:03:09,624 --> 00:03:12,634
+Page y Brin querían una palabra que sonara a infinito.
+
+65
+00:03:12,634 --> 00:03:15,643
+A la ambición, casi infantil y casi seria, de indexar todo.
+
+66
+00:03:15,643 --> 00:03:18,653
+El cuatro de septiembre de mil novecientos noventa y ocho nace la empresa.
+
+67
+00:03:18,653 --> 00:03:21,663
+Google Incorporated.
+
+68
+00:03:21,663 --> 00:03:24,673
+El primer cheque importante, cien mil dólares, lo firma Andy Bechtolsheim, cofundador de Sun Microsystems, después de una demostración breve.
+
+69
+00:03:24,673 --> 00:03:27,683
+El detalle que parece de película es real: el cheque está a nombre de Google Incorporated.
+
+70
+00:03:27,683 --> 00:03:30,693
+Y la empresa, en ese instante, todavía no existe del todo.
+
+71
+00:03:30,693 --> 00:03:33,703
+No pueden cobrarlo.
+
+72
+00:03:33,703 --> 00:03:36,713
+Tienen que crear la compañía para que el papel sirva.
+
+73
+00:03:36,713 --> 00:03:39,723
+Imagina la escena.
+
+74
+00:03:39,723 --> 00:03:42,733
+Tienes en la mano el primer capital de tu vida, y el banco no sabe quién eres, porque todavía no eres nadie.
+
+75
+00:03:42,733 --> 00:03:45,742
+La oficina tampoco es un rascacielos.
+
+76
+00:03:45,742 --> 00:03:48,752
+Es un garaje.
+
+77
+00:03:48,752 --> 00:03:51,762
+En Menlo Park, California.
+
+78
+00:03:51,762 --> 00:03:54,772
+Calle Santa Margarita, número doscientos treinta y dos.
+
+79
+00:03:54,772 --> 00:03:57,782
+La casa es de Susan Wojcicki, que años después dirigirá YouTube.
+
+80
+00:03:57,782 --> 00:04:00,792
+En el garaje hay escritorios baratos, cables, cajas, y la sensación de que el mundo todavía no se ha enterado.
+
+81
+00:04:00,792 --> 00:04:03,802
+El primer empleado es Craig Silverstein.
+
+82
+00:04:03,802 --> 00:04:06,812
+El resto es una habitación que huele a pizza y a ambición.
+
+83
+00:04:06,812 --> 00:04:09,822
+En mil novecientos noventa y nueve llegan veinticinco millones de dólares de Sequoia Capital y de Kleiner Perkins.
+
+84
+00:04:09,822 --> 00:04:12,832
+John Doerr, el inversionista, entiende que esto no es un portal más.
+
+85
+00:04:12,832 --> 00:04:15,841
+Es una puerta.
+
+86
+00:04:15,841 --> 00:04:18,851
+Con ese dinero salen del garaje.
+
+87
+00:04:18,851 --> 00:04:21,861
+Pasan por Palo Alto.
+
+88
+00:04:21,861 --> 00:04:24,871
+Terminan en Mountain View, donde el campus se volverá famoso por las bicicletas de colores y el comedor.
+
+89
+00:04:24,871 --> 00:04:27,881
+Pero conviene no romantizar demasiado el garaje.
+
+90
+00:04:27,881 --> 00:04:30,891
+El garaje dura poco.
+
+91
+00:04:30,891 --> 00:04:33,901
+La idea, no.
+
+92
+00:04:33,901 --> 00:04:36,911
+Lo que sí dura es el hábito que están a punto de instalar en la especie: abrir una caja en blanco y decirle al mundo lo que quieres.
+
+93
+00:04:36,911 --> 00:04:39,921
+Indexar la web no paga la renta.
+
+94
+00:04:39,921 --> 00:04:42,931
+Durante un tiempo, Google es el motor que otros ponen detrás de su portal.
+
+95
+00:04:42,931 --> 00:04:45,940
+En el año dos mil, Yahoo usa sus resultados.
+
+96
+00:04:45,940 --> 00:04:48,950
+El buscador más limpio de internet trabaja, en silencio, para la competencia.
+
+97
+00:04:48,950 --> 00:04:51,960
+Luego llega la idea que cambia el siglo comercial de la red.
+
+98
+00:04:51,960 --> 00:04:54,970
+No un banner que grita.
+
+99
+00:04:54,970 --> 00:04:57,980
+Un anuncio que responde.
+
+100
+00:04:57,980 --> 00:05:00,990
+AdWords.
+
+101
+00:05:00,990 --> 00:05:04,000
+Si alguien busca zapatos, el anuncio de zapatos no interrumpe: coincide.
+
+102
+00:05:04,000 --> 00:05:07,010
+Y el anunciante no paga por ser visto a la fuerza.
+
+103
+00:05:07,010 --> 00:05:10,020
+Paga, sobre todo, cuando alguien hace clic.
+
+104
+00:05:10,020 --> 00:05:13,030
+Parece menor.
+
+105
+00:05:13,030 --> 00:05:16,039
+Es una imprenta de dinero.
+
+106
+00:05:16,039 --> 00:05:19,049
+Porque Google descubrió algo incómodo y poderoso: la intención.
+
+107
+00:05:19,049 --> 00:05:22,059
+Cuando escribes en una caja de búsqueda, confiesas lo que quieres, ahora.
+
+108
+00:05:22,059 --> 00:05:25,069
+Ninguna valla, ningún comercial de televisión, tenía ese nivel de confesión voluntaria.
+
+109
+00:05:25,069 --> 00:05:28,079
+La página, además, se queda en blanco.
+
+110
+00:05:28,079 --> 00:05:31,089
+Casi vacía.
+
+111
+00:05:31,089 --> 00:05:34,099
+Un logo.
+
+112
+00:05:34,099 --> 00:05:37,109
+Una caja.
+
+113
+00:05:37,109 --> 00:05:40,119
+Dos botones.
+
+114
+00:05:40,119 --> 00:05:43,129
+En una época de portales abarrotados, el vacío era un acto de diseño.
+
+115
+00:05:43,129 --> 00:05:46,138
+Y de confianza.
+
+116
+00:05:46,138 --> 00:05:49,148
+La gente volvía porque encontraba.
+
+117
+00:05:49,148 --> 00:05:52,158
+Y porque nadie le gritaba antes de dejarla buscar.
+
+118
+00:05:52,158 --> 00:05:55,168
+En dos mil uno, Eric Schmidt entra como director ejecutivo.
+
+119
+00:05:55,168 --> 00:05:58,178
+Los fundadores siguen siendo el cerebro.
+
+120
+00:05:58,178 --> 00:06:01,188
+Schmidt es la persona adulta en la sala cuando Wall Street empieza a mirar.
+
+121
+00:06:01,188 --> 00:06:04,198
+La frase que se vuelve evangelio interno aparece por esos años: Don't be evil.
+
+122
+00:06:04,198 --> 00:06:07,208
+No seas malvado.
+
+123
+00:06:07,208 --> 00:06:10,218
+Cabe en una camiseta.
+
+124
+00:06:10,218 --> 00:06:13,228
+También cabe, después, en una carta a los accionistas.
+
+125
+00:06:13,228 --> 00:06:16,237
+Y, mucho después, va a doler.
+
+126
+00:06:16,237 --> 00:06:19,247
+El primero de abril de dos mil cuatro, Google anuncia Gmail.
+
+127
+00:06:19,247 --> 00:06:22,257
+Un gigabyte de almacenamiento.
+
+128
+00:06:22,257 --> 00:06:25,267
+En esa época, un gigabyte de correo suena a broma del día de los inocentes.
+
+129
+00:06:25,267 --> 00:06:28,277
+Muchos lo creen.
+
+130
+00:06:28,277 --> 00:06:31,287
+No lo es.
+
+131
+00:06:31,287 --> 00:06:34,297
+El correo deja de ser un buzón estrecho y se vuelve un archivo de tu vida.
+
+132
+00:06:34,297 --> 00:06:37,307
+Gratis.
+
+133
+00:06:37,307 --> 00:06:40,317
+A cambio de que la máquina lea, para mostrarte anuncios, el contexto de lo que escribes.
+
+134
+00:06:40,317 --> 00:06:43,327
+El pacto queda firmado sin que casi nadie lo lea en voz alta.
+
+135
+00:06:43,327 --> 00:06:46,336
+Ese es el verdadero giro de la década.
+
+136
+00:06:46,336 --> 00:06:49,346
+No solo te buscan las páginas.
+
+137
+00:06:49,346 --> 00:06:52,356
+Empiezas a vivir dentro de la herramienta.
+
+138
+00:06:52,356 --> 00:06:55,366
+Tu bandeja.
+
+139
+00:06:55,366 --> 00:06:58,376
+Tus rutas.
+
+140
+00:06:58,376 --> 00:07:01,386
+Tus palabras.
+
+141
+00:07:01,386 --> 00:07:04,396
+La caja ya no es una visita.
+
+142
+00:07:04,396 --> 00:07:07,406
+Es una casa.
+
+143
+00:07:07,406 --> 00:07:10,416
+Y las casas, cuando son gratis, se pagan con otra moneda: la atención, y los datos que la atención deja atrás.
+
+144
+00:07:10,416 --> 00:07:13,426
+El diecinueve de agosto de dos mil cuatro, Google sale a bolsa.
+
+145
+00:07:13,426 --> 00:07:16,435
+No con el ritual clásico de Wall Street, sino con una subasta.
+
+146
+00:07:16,435 --> 00:07:19,445
+El precio de salida: ochenta y cinco dólares.
+
+147
+00:07:19,445 --> 00:07:22,455
+En la carta a los inversores, Page y Brin escriben un manual del propietario.
+
+148
+00:07:22,455 --> 00:07:25,465
+Prometen pensar a largo plazo.
+
+149
+00:07:25,465 --> 00:07:28,475
+Prometen que no serán malvados.
+
+150
+00:07:28,475 --> 00:07:31,485
+La acción empieza a vivir una vida propia.
+
+151
+00:07:31,485 --> 00:07:34,495
+La empresa ya no es solo de dos estudiantes.
+
+152
+00:07:34,495 --> 00:07:37,505
+Con el dinero llega el apetito.
+
+153
+00:07:37,505 --> 00:07:40,515
+En dos mil cinco, Google Maps despliega el planeta en el navegador.
+
+154
+00:07:40,515 --> 00:07:43,525
+De pronto la ciudad cabe en una pantalla.
+
+155
+00:07:43,525 --> 00:07:46,534
+Luego la calle.
+
+156
+00:07:46,534 --> 00:07:49,544
+Luego, con los coches de Street View, la fachada de tu casa.
+
+157
+00:07:49,544 --> 00:07:52,554
+El mismo año compran Android, una compañía pequeña liderada por Andy Rubin.
+
+158
+00:07:52,554 --> 00:07:55,564
+Todavía no hay un teléfono con ese nombre en el bolsillo del mundo.
+
+159
+00:07:55,564 --> 00:07:58,574
+Hay una apuesta: el futuro de la búsqueda no va a estar en el escritorio.
+
+160
+00:07:58,574 --> 00:08:01,584
+Va a estar en la mano.
+
+161
+00:08:01,584 --> 00:08:04,594
+En octubre de dos mil seis compran YouTube por unos mil seiscientos cincuenta millones de dólares.
+
+162
+00:08:04,594 --> 00:08:07,604
+En ese momento, a muchos les parece una locura.
+
+163
+00:08:07,604 --> 00:08:10,614
+Un sitio de videos caseros, demandas de copyright en el horizonte, una banda ancha que apenas aguanta.
+
+164
+00:08:10,614 --> 00:08:13,624
+Dos décadas después, YouTube es la televisión del planeta.
+
+165
+00:08:13,624 --> 00:08:16,633
+El archivo sentimental de la especie.
+
+166
+00:08:16,633 --> 00:08:19,643
+Y el lugar donde, si te gusta lo que estás viendo, te quedas un minuto más.
+
+167
+00:08:19,643 --> 00:08:22,653
+En dos mil ocho llega Chrome.
+
+168
+00:08:22,653 --> 00:08:25,663
+Un navegador pensado como una ventana rápida, no como una barra de herramientas hinchada.
+
+169
+00:08:25,663 --> 00:08:28,673
+Google entiende algo decisivo.
+
+170
+00:08:28,673 --> 00:08:31,683
+Si controlas el buscador, el correo, el mapa, el video y la ventana misma por la que miras la web, no eres una página.
+
+171
+00:08:31,683 --> 00:08:34,693
+Eres el suelo.
+
+172
+00:08:34,693 --> 00:08:37,703
+El éxito tiene una sombra con la misma forma.
+
+173
+00:08:37,703 --> 00:08:40,713
+En dos mil diez, después de censura y de ciberataques, Google deja de operar el buscador censurado en China continental.
+
+174
+00:08:40,713 --> 00:08:43,723
+Es un gesto que la compañía cuenta como principio.
+
+175
+00:08:43,723 --> 00:08:46,732
+También es la prueba de que hay mercados donde la puerta no manda.
+
+176
+00:08:46,732 --> 00:08:49,742
+En dos mil once intentan la red social con Google Plus.
+
+177
+00:08:49,742 --> 00:08:52,752
+No despega.
+
+178
+00:08:52,752 --> 00:08:55,762
+No todas las puertas se abren.
+
+179
+00:08:55,762 --> 00:08:58,772
+Pero las que sí, búsqueda, anuncios, Android, YouTube, Chrome, se vuelven infraestructura.
+
+180
+00:08:58,772 --> 00:09:01,782
+Como la electricidad.
+
+181
+00:09:01,782 --> 00:09:04,792
+Dejas de notarla.
+
+182
+00:09:04,792 --> 00:09:07,802
+Hasta que falla.
+
+183
+00:09:07,802 --> 00:09:10,812
+O hasta que cobra.
+
+184
+00:09:10,812 --> 00:09:13,822
+En dos mil doce, el Knowledge Graph empieza a responder encima de los enlaces.
+
+185
+00:09:13,822 --> 00:09:16,831
+Google ya no solo te manda a otro sitio.
+
+186
+00:09:16,831 --> 00:09:19,841
+Te muestra la respuesta.
+
+187
+00:09:19,841 --> 00:09:22,851
+Es útil.
+
+188
+00:09:22,851 --> 00:09:25,861
+También es el primer aviso de una guerra futura: si la respuesta vive en Google, ¿para qué visitar al que la escribió?
+
+189
+00:09:25,861 --> 00:09:28,871
+El diez de agosto de dos mil quince, la compañía se reorganiza.
+
+190
+00:09:28,871 --> 00:09:31,881
+Nace Alphabet.
+
+191
+00:09:31,881 --> 00:09:34,891
+Google queda como la hija mayor, la que genera casi todo el dinero.
+
+192
+00:09:34,891 --> 00:09:37,901
+Larry Page pasa a dirigir el holding.
+
+193
+00:09:37,901 --> 00:09:40,911
+Sundar Pichai, ingeniero nacido en la India, formado en Stanford, se convierte en director de Google.
+
+194
+00:09:40,911 --> 00:09:43,921
+La estructura dice: somos más que un buscador.
+
+195
+00:09:43,921 --> 00:09:46,930
+Coches que se conducen solos, salud, apuestas que pueden perder.
+
+196
+00:09:46,930 --> 00:09:49,940
+El efectivo, mientras tanto, sigue saliendo de la caja de búsqueda y de los anuncios que la rodean.
+
+197
+00:09:49,940 --> 00:09:52,950
+En dos mil dieciséis, AlphaGo derrota a Lee Sedol, el maestro de go.
+
+198
+00:09:52,950 --> 00:09:55,960
+No es un producto para el público.
+
+199
+00:09:55,960 --> 00:09:58,970
+Es una declaración.
+
+200
+00:09:58,970 --> 00:10:01,980
+En los laboratorios de esta empresa, las máquinas ya juegan mejor que el mito humano.
+
+201
+00:10:01,980 --> 00:10:04,990
+Un año después, en dos mil diecisiete, investigadores ligados a Google publican un paper con un título que parece modesto: Attention Is All You Need.
+
+202
+00:10:04,990 --> 00:10:08,000
+La atención es todo lo que necesitas.
+
+203
+00:10:08,000 --> 00:10:11,010
+Ahí está el transformer.
+
+204
+00:10:11,010 --> 00:10:14,020
+La arquitectura que va a hacer posibles los modelos de lenguaje de la década siguiente.
+
+205
+00:10:14,020 --> 00:10:17,029
+La idea sale, en buena parte, de dentro de la casa.
+
+206
+00:10:17,029 --> 00:10:20,039
+Y la casa, durante un tiempo, no la convierte en el producto que el mundo va a usar primero.
+
+207
+00:10:20,039 --> 00:10:23,049
+Hacia dos mil dieciocho, la frase Don't be evil deja de abrir el código de conducta.
+
+208
+00:10:23,049 --> 00:10:26,059
+El lema se suaviza.
+
+209
+00:10:26,059 --> 00:10:29,069
+Haz lo correcto.
+
+210
+00:10:29,069 --> 00:10:32,079
+Suena más adulto.
+
+211
+00:10:32,079 --> 00:10:35,089
+También suena a que la camiseta se quedó chica.
+
+212
+00:10:35,089 --> 00:10:38,099
+En diciembre de dos mil diecinueve, Page y Brin se apartan del día a día.
+
+213
+00:10:38,099 --> 00:10:41,109
+Pichai queda al frente de Alphabet.
+
+214
+00:10:41,109 --> 00:10:44,119
+Los dos fundadores siguen en el consejo, pero la opera diaria ya tiene otro director.
+
+215
+00:10:44,119 --> 00:10:47,128
+La empresa es un imperio.
+
+216
+00:10:47,128 --> 00:10:50,138
+Y los imperios, cuando el terreno cambia, a veces no ven el cambio porque ellos mismos son el terreno.
+
+217
+00:10:50,138 --> 00:10:53,148
+El treinta de noviembre de dos mil veintidós, el mundo abre un chat que no es de Google.
+
+218
+00:10:53,148 --> 00:10:56,158
+Se llama ChatGPT.
+
+219
+00:10:56,158 --> 00:10:59,168
+En cinco días, un millón de personas.
+
+220
+00:10:59,168 --> 00:11:02,178
+La interfaz es simple, casi insultante: una caja, como la de Google, pero la caja contesta.
+
+221
+00:11:02,178 --> 00:11:05,188
+No te da diez enlaces azules.
+
+222
+00:11:05,188 --> 00:11:08,198
+Te habla.
+
+223
+00:11:08,198 --> 00:11:11,208
+Dentro de Google suena la alarma.
+
+224
+00:11:11,208 --> 00:11:14,218
+Ellos tenían la investigación.
+
+225
+00:11:14,218 --> 00:11:17,227
+Ellos tenían los datos.
+
+226
+00:11:17,227 --> 00:11:20,237
+Ellos tenían la distribución: el buscador, el teléfono, el navegador.
+
+227
+00:11:20,237 --> 00:11:23,247
+Y, aun así, una empresa más pequeña les enseña al público lo que la inteligencia artificial generativa puede sentir en las manos.
+
+228
+00:11:23,247 --> 00:11:26,257
+En febrero de dos mil veintitrés presentan Bard, a toda prisa.
+
+229
+00:11:26,257 --> 00:11:29,267
+En el video de demostración, el sistema se equivoca en un dato sobre el telescopio espacial James Webb.
+
+230
+00:11:29,267 --> 00:11:32,277
+Al día siguiente los mercados castigan el tropiezo.
+
+231
+00:11:32,277 --> 00:11:35,287
+Se evaporan cerca de cien mil millones de dólares de valor en bolsa.
+
+232
+00:11:35,287 --> 00:11:38,297
+No es solo un error técnico.
+
+233
+00:11:38,297 --> 00:11:41,307
+Es un símbolo.
+
+234
+00:11:41,307 --> 00:11:44,317
+El buscador que vivía de tener la razón se muestra inseguro en el escenario.
+
+235
+00:11:44,317 --> 00:11:47,326
+En diciembre de dos mil veintitrés llega Gemini, el nombre de la familia de modelos.
+
+236
+00:11:47,326 --> 00:11:50,336
+En febrero de dos mil veinticuatro, Bard pasa a llamarse Gemini.
+
+237
+00:11:50,336 --> 00:11:53,346
+Google mete la inteligencia dentro de la búsqueda, del correo, del teléfono, de la oficina.
+
+238
+00:11:53,346 --> 00:11:56,356
+La caja blanca ya no está sola.
+
+239
+00:11:56,356 --> 00:11:59,366
+Encima de los enlaces aparecen resúmenes escritos por la máquina.
+
+240
+00:11:59,366 --> 00:12:02,376
+Otra vez la tensión de dos mil doce, ahora multiplicada.
+
+241
+00:12:02,376 --> 00:12:05,386
+Si la máquina responde, el sitio que tardó años en escribir puede quedarse sin visita.
+
+242
+00:12:05,386 --> 00:12:08,396
+Y sin anuncio.
+
+243
+00:12:08,396 --> 00:12:11,406
+Editores, periódicos y creadores empiezan a decirlo en voz alta.
+
+244
+00:12:11,406 --> 00:12:14,416
+La puerta de entrada se está comiendo la casa.
+
+245
+00:12:14,416 --> 00:12:17,425
+Mientras la inteligencia artificial ocupa los titulares, un juicio más lento termina de hablar.
+
+246
+00:12:17,425 --> 00:12:20,435
+El cinco de agosto de dos mil veinticuatro, el juez Amit Mehta, en Washington, concluye que Google mantuvo de forma ilegal un monopolio en la búsqueda general y en la publicidad de esa búsqueda.
+
+247
+00:12:20,435 --> 00:12:23,445
+No es una multa de trámite.
+
+248
+00:12:23,445 --> 00:12:26,455
+Es una de las sentencias antimonopolio más graves contra una tecnológica desde el caso de Microsoft, a finales de los noventa.
+
+249
+00:12:26,455 --> 00:12:29,465
+El núcleo del caso es incómodo porque es cotidiano.
+
+250
+00:12:29,465 --> 00:12:32,475
+Google paga miles de millones al año para ser el buscador por defecto.
+
+251
+00:12:32,475 --> 00:12:35,485
+En el teléfono.
+
+252
+00:12:35,485 --> 00:12:38,495
+En el navegador.
+
+253
+00:12:38,495 --> 00:12:41,505
+En el aparato que ya traes en el bolsillo cuando abres la caja.
+
+254
+00:12:41,505 --> 00:12:44,515
+La pregunta del juez no es si Google es bueno.
+
+255
+00:12:44,515 --> 00:12:47,524
+Mucha gente lo prefiere precisamente porque funciona.
+
+256
+00:12:47,524 --> 00:12:50,534
+La pregunta es si esa calidad, sumada a contratos que cierran la puerta a los demás, dejó de ser competencia y pasó a ser una fortaleza.
+
+257
+00:12:50,534 --> 00:12:53,544
+En dos mil veinticinco llegan los remedios.
+
+258
+00:12:53,544 --> 00:12:56,554
+El tribunal no ordena vender Chrome.
+
+259
+00:12:56,554 --> 00:12:59,564
+No prohíbe del todo pagar por ser el buscador predeterminado.
+
+260
+00:12:59,564 --> 00:13:02,574
+Pero impone obligaciones para compartir datos y darle aire a los rivales.
+
+261
+00:13:02,574 --> 00:13:05,584
+En diciembre de ese año el fallo se concreta.
+
+262
+00:13:05,584 --> 00:13:08,594
+Google apela.
+
+263
+00:13:08,594 --> 00:13:11,604
+En dos mil veintiséis el caso sigue vivo en los tribunales de apelación.
+
+264
+00:13:11,604 --> 00:13:14,614
+El imperio no se desarma de un día para otro.
+
+265
+00:13:14,614 --> 00:13:17,623
+Se defiende.
+
+266
+00:13:17,623 --> 00:13:20,633
+Como se defienden los imperios.
+
+267
+00:13:20,633 --> 00:13:23,643
+Y, en paralelo, la carrera de modelos no se detiene.
+
+268
+00:13:23,643 --> 00:13:26,653
+Para el otoño de dos mil veintiséis, Google empuja una nueva generación de Gemini hacia el público de pago y hacia los desarrolladores, mientras discute en cortes si sus resúmenes perjudican a quien produce la información.
+
+269
+00:13:26,653 --> 00:13:29,663
+Inventor.
+
+270
+00:13:29,663 --> 00:13:32,673
+Distribuidor.
+
+271
+00:13:32,673 --> 00:13:35,683
+Acusado.
+
+272
+00:13:35,683 --> 00:13:38,693
+Las tres caras al mismo tiempo.
+
+273
+00:13:38,693 --> 00:13:41,703
+Vuelve al principio.
+
+274
+00:13:41,703 --> 00:13:44,713
+Dos estudiantes que no se cayeron bien.
+
+275
+00:13:44,713 --> 00:13:47,722
+Un garaje.
+
+276
+00:13:47,722 --> 00:13:50,732
+Un cheque que no podían cobrar.
+
+277
+00:13:50,732 --> 00:13:53,742
+Una idea prestada de las citas académicas: lo importante es lo que los demás señalan.
+
+278
+00:13:53,742 --> 00:13:56,752
+Esa idea indexó el mundo.
+
+279
+00:13:56,752 --> 00:13:59,762
+Lo volvió anunciable.
+
+280
+00:13:59,762 --> 00:14:02,772
+Lo metió en el bolsillo.
+
+281
+00:14:02,772 --> 00:14:05,782
+Lo convirtió en video, en mapa, en correo, en ventana.
+
+282
+00:14:05,782 --> 00:14:08,792
+Y cuando la atención, esa palabra del paper de dos mil diecisiete, se volvió el recurso más caro del planeta, la compañía que la medía mejor que nadie descubrió que también podía perder el relato.
+
+283
+00:14:08,792 --> 00:14:11,802
+Google no es un logo.
+
+284
+00:14:11,802 --> 00:14:14,812
+Es la prueba de que una caja vacía puede volverse infraestructura civil.
+
+285
+00:14:14,812 --> 00:14:17,821
+Y de que toda infraestructura, cuando crece lo suficiente, termina sentada frente a un juez.
+
+286
+00:14:17,821 --> 00:14:20,831
+Y frente a una pregunta nueva, que ya no es solo cuál página merece ser la primera.
+
+287
+00:14:20,831 --> 00:14:23,841
+La pregunta de ahora es más honda.
+
+288
+00:14:23,841 --> 00:14:26,851
+¿Quién responde?
+
+289
+00:14:26,851 --> 00:14:29,861
+¿El que escribió?
+
+290
+00:14:29,861 --> 00:14:32,871
+¿El que indexó?
+
+291
+00:14:32,871 --> 00:14:35,881
+¿O la máquina que aprendió de los dos, y ya no necesita mandarte a ningún lado?
+
+292
+00:14:35,881 --> 00:14:38,891
+Si esta historia te sostuvo hasta aquí, no la dejes en una pestaña.
+
+293
+00:14:38,891 --> 00:14:41,901
+Suscríbete a inodeAI.
+
+294
+00:14:41,901 --> 00:14:44,911
+Aquí hacemos documentales para quedarte pensando después del último fotograma: imperios, ciencia, poder, y las máquinas que estamos construyendo sin manual de uso.
+
+295
+00:14:44,911 --> 00:14:47,920
+Activa la campana.
+
+296
+00:14:47,920 --> 00:14:50,930
+Elige el siguiente.
+
+297
+00:14:50,930 --> 00:14:53,940
+Y la próxima vez que abras esa caja blanca y le preguntes algo al mundo, recuerda de quién es la puerta.
+
+298
+00:14:53,940 --> 00:14:56,950
+Esto fue la historia de Google.
+
+299
+00:14:56,950 --> 00:14:59,960
+Nos vemos en el siguiente.
