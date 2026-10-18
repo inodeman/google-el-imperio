@@ -34,10 +34,15 @@ Canal: [inodeAI](https://www.youtube.com/user/inodeEntertainment)
 
 ## Descripción para YouTube
 
+El texto listo para pegar (título, descripción, capítulos y hashtags) está en [YOUTUBE.txt](YOUTUBE.txt).
+
+**Título:** GOOGLE: El Imperio | La historia real, del garaje al tribunal | Documental 3D
+
 Dos estudiantes que no se cayeron bien. Un garaje. Un cheque que no podían cobrar. Y una idea prestada de las citas académicas: un enlace es un voto.
 
 Este documental recorre cómo esa idea se volvió infraestructura: AdWords, Gmail, YouTube, Android, Chrome, Alphabet, el paper que inventó el transformer… y el día en que la compañía que medía la atención mejor que nadie llegó tarde a su propia invención. Termina en un tribunal, en 2024, y en la pregunta que sigue abierta: ¿quién responde ahora?
 
 Suscríbete a inodeAI. Documentales para quedarte pensando después del último fotograma.
 
-#documental #Google #historia #inodeAI
+#Google #Documental #inodeAI #HistoriaDeGoogle #Documental3D #Tecnología #SiliconValley #PageRank #YouTube #Android #Alphabet #InteligenciaArtificial #Gemini #Historia #Documentales #Innovación #Startups #Internet #Suscríbete
+
